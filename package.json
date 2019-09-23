@@ -1,0 +1,22 @@
+{
+  "name": "netlify-env-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "ejs-cli index.ejs --out public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngsctt/netlify-env-tester.git"
+  },
+  "author": "Nathan Scott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngsctt/netlify-env-tester/issues"
+  },
+  "homepage": "https://github.com/ngsctt/netlify-env-tester#readme",
+  "dependencies": {
+    "ejs-cli": "^2.1.0"
+  }
+}
